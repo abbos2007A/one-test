@@ -1,0 +1,179 @@
+.header .d1 {
+  height: 60px; }
+  .header .d1 .d2 {
+    position: relative; }
+    .header .d1 .d2 .row h2 {
+      font-size: 13px;
+      margin-top: 25px; }
+    .header .d1 .d2 .row .nav {
+      margin-top: 20px;
+      position: absolute;
+      right: 50px;
+      font-family: "Fira Code",sans-serif; }
+      .header .d1 .d2 .row .nav li {
+        margin-left: 100px; }
+
+.a1 {
+  background-color: #166570; }
+  .a1 .card {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: transparent;
+    border: 0; }
+    .a1 .card img {
+      width: 200px;
+      height: 250px;
+      margin: 0 auto; }
+    .a1 .card h1, .a1 .card h6 {
+      font-family: "Roboto Light",sans-serif;
+      font-size: 30px;
+      margin-top: 15px; }
+    .a1 .card p {
+      margin-top: 15px;
+      font-size: 14px; }
+
+.s2 {
+  margin-top: 35px; }
+  .s2 .card {
+    border: 0; }
+    .s2 .card .fade1 {
+      margin: 0 auto; }
+      .s2 .card .fade1 h2 {
+        font-size: 30px; }
+    .s2 .card .container .fade1 p {
+      font-size: 30px; }
+    .s2 .card .container .fade1 .row .card1 {
+      width: 350px;
+      height: 250px;
+      margin-left: 25px;
+      background-color: white; }
+      .s2 .card .container .fade1 .row .card1 img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; }
+    .s2 .card .container .fade1 .row1 .card2 {
+      width: 350px;
+      height: 250px;
+      margin-top: 25px;
+      margin-left: 25px;
+      background-color: #0b2e13; }
+      .s2 .card .container .fade1 .row1 .card2 img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; }
+
+.con1 {
+  background-color: #166570;
+  height: 500px;
+  margin-top: 100px; }
+  .con1 .card {
+    margin: 0 auto;
+    background-color: #166570;
+    border: none;
+    width: 500px;
+    height: 450px; }
+    .con1 .card .card-header {
+      border: none;
+      background-color: transparent; }
+      .con1 .card .card-header .p {
+        font-size: 30px; }
+    .con1 .card .card-body {
+      border: none; }
+    .con1 .card .card-footer {
+      border: none;
+      background-color: transparent; }
+
+.son1 .card {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 30px;
+  border: none; }
+  .son1 .card .card-header {
+    border: none;
+    background-color: white;
+    height: 50px; }
+    .son1 .card .card-header h2 {
+      font-size: 30px;
+      font-family: "Roboto Light", sans-serif; }
+  .son1 .card .card-body {
+    border: none; }
+    .son1 .card .card-body p {
+      font-size: 30px; }
+    .son1 .card .card-body .input {
+      border: none;
+      border-bottom: 1px solid #c6c6c6;
+      margin-top: 20px; }
+    .son1 .card .card-body .input1 {
+      border: none;
+      border-bottom: 1px solid #c6c6c6;
+      margin-top: 20px; }
+  .son1 .card .card-footer {
+    border: none;
+    background-color: white; }
+
+.fluid1 {
+  background-color: #4a4a4a;
+  height: 150px;
+  margin-top: 30px; }
+  .fluid1 .row .salom1 {
+    width: 250px;
+    height: 100px;
+    background-color: #4a4a4a;
+    margin-left: 250px;
+    border: none;
+    margin-top: 30px; }
+    .fluid1 .row .salom1 h4 {
+      font-size: 18px;
+      font-family: "Roboto Thin",sans-serif; }
+    .fluid1 .row .salom1 p {
+      font-size: 14px;
+      font-family: "Roboto Thin",sans-serif;
+      color: #cccccc; }
+    .fluid1 .row .salom1 .p1 {
+      font-size: 14px;
+      font-family: "Roboto Thin",sans-serif;
+      margin-top: -10px;
+      color: #cccccc; }
+  .fluid1 .row .salom2 {
+    width: 250px;
+    height: 70px;
+    background-color: #4a4a4a;
+    border: none;
+    margin-left: 50px;
+    margin-top: 30px; }
+    .fluid1 .row .salom2 .r1 {
+      width: 150px;
+      height: 40px;
+      margin-left: 60px; }
+    .fluid1 .row .salom2 h3 {
+      font-size: 20px;
+      font-family: "Roboto Thin",sans-serif; }
+    .fluid1 .row .salom2 img {
+      width: 20px;
+      height: 20px;
+      margin-left: 5px; }
+  .fluid1 .row .salom3 {
+    width: 350px;
+    height: 100px;
+    background-color: #4a4a4a;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: none; }
+    .fluid1 .row .salom3 h2 {
+      font-size: 20px;
+      font-family: "Roboto Thin",sans-serif; }
+    .fluid1 .row .salom3 .p3 {
+      font-size: 15px;
+      margin-top: -15px; }
+    .fluid1 .row .salom3 .p2 {
+      font-size: 15px;
+      color: red;
+      margin-top: -15px; }
+
+.copy1 {
+  background-color: #000000;
+  height: 30px; }
+
+/*# sourceMappingURL=style.css.map */
